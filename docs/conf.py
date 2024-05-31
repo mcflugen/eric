@@ -1,9 +1,6 @@
-import os
-import pathlib
-
-from dateutil.relativedelta import relativedelta
 from datetime import date
 
+from dateutil.relativedelta import relativedelta
 
 project = "Eric Hutton"
 copyright = "2024, Eric Hutton"
@@ -28,9 +25,6 @@ extensions = [
     "sphinx_inline_tabs",
 ]
 
-# Add any paths that contain templates here, relative to this directory.
-# templates_path = ["_templates"]
-
 language = "en"
 pygments_style = "sphinx"
 todo_include_todos = False
@@ -49,7 +43,17 @@ html_theme_options = {
             "name": "power",
             "url": "https://csdms.colorado.edu",
             "html": """
-               <svg stroke="currentColor" fill="currentColor" stroke-width="0" version="1.1" viewBox="0 0 16 16" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg"><path d="M6 0l-6 8h6l-4 8 14-10h-8l6-6z"></path></svg>
+               <svg
+                   stroke="currentColor"
+                   fill="currentColor"
+                   stroke-width="0"
+                   version="1.1"
+                   viewBox="0 0 16 16"
+                   height="1em"
+                   width="1em"
+                   xmlns="http://www.w3.org/2000/svg">
+                   <path d="M6 0l-6 8h6l-4 8 14-10h-8l6-6z"></path>
+               </svg>
                <b><i>Powered by CSDMS</i></b>
             """,
             "class": "",

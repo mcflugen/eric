@@ -8,6 +8,14 @@ import nox
 
 ROOT = pathlib.Path(__file__).parent
 
+
+@nox.session
+def lint(session: nox.Session) -> None:
+    """Look for lint."""
+    session.install("pre-commit")
+    session.run("pre-commit", "run", "--all-files", "--verbose")
+
+
 @nox.session(name="build-refs")
 def build_refs(session: nox.Session) -> None:
     article_pattern = "(article-journal|chapter)"
