@@ -139,4 +139,3 @@ Boulder, CO 80309-0399 USA
    (https://github.com/sequence-dev/sequence).
 *  **Sedflux**: project leader and developer: First publication 2001. Under maintenance.  
    (https://github.com/mcflugen/sedflux).
-

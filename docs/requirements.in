@@ -1,0 +1,6 @@
+furo
+myst-parser
+python-dateutil
+sphinx-copybutton
+sphinx-inline-tabs
+sphinx>=4
