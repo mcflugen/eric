@@ -1,7 +1,4 @@
-import os
 import pathlib
-import shutil
-import tempfile
 from urllib import request
 
 import nox
@@ -20,7 +17,7 @@ def lint(session: nox.Session) -> None:
 def build_refs(session: nox.Session) -> None:
     article_pattern = "(article-journal|chapter)"
 
-    session.install("click", "pandoc", "pyyaml")
+    session.install("-r", "requirements.in")
 
     with session.chdir("cv/refs"):
         with open("_articles.yaml", "w") as fp:
@@ -98,14 +95,7 @@ def fetch_articles(session: nox.Session) -> None:
 @nox.session(name="build-docs")
 def build_docs(session: nox.Session) -> None:
     """Build the docs."""
-    session.install(
-        "furo",
-        "myst-parser",
-        "python-dateutil",
-        "sphinx-copybutton",
-        "sphinx-inline-tabs",
-        "sphinx>=4",
-    )
+    session.install("-r", "docs/requirements.in")
 
     (ROOT / "build").mkdir(exist_ok=True)
     session.run(
