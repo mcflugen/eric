@@ -2,8 +2,6 @@
 
 [👉 as pdf](_static/cv.pdf)
 
-*May 2024*
-
 Research Scientist II, Institute of Arctic and Alpine Research
 (INSTAAR)  
 Chief Software Architect, Community Surface Dynamics Modeling System
@@ -12,7 +10,6 @@ University of Colorado
 Boulder, CO 80309-0399 USA
 
 *Telephone*: +1 303 492 6233  
-*Email*: huttone@colorado.edu  
 *Web*: <https://www.colorado.edu/instaar/eric-hutton>  
 *ORCHID*: <https://orcid.org/0000-0002-5864-6459>
 
