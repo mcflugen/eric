@@ -4,7 +4,6 @@ import sys
 import click
 import yaml
 
-
 EXCLUDE = frozenset(
     (
         "kettneragu",
