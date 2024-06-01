@@ -5,6 +5,19 @@ import click
 import yaml
 
 
+EXCLUDE = frozenset(
+    (
+        "kettneragu",
+        "masellistratodynamics",
+        "nudurupatiprinting",
+        "overeemsinking",
+        "syvitskichapter",
+        "syvitskidelivering",
+        "xingcsdms",
+    )
+)
+
+
 @click.command()
 @click.option("--type", help="type to filter")
 @click.argument("file", type=click.File())
@@ -36,6 +49,8 @@ def _filter_doc(doc, type_):
 
     references = []
     for reference in doc["references"]:
+        if reference["id"] in EXCLUDE:
+            continue
         try:
             reference_type = reference["type"]
         except KeyError:
