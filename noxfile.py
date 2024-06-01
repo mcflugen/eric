@@ -87,10 +87,22 @@ def build_cv(session: nox.Session) -> None:
 def copy_to_docs(session: nox.Session) -> None:
     shutil.copy("cv/_cv.pdf", "docs/_static/cv.pdf")
 
+    TOC = """\
+
+```{toctree}
+:hidden: true
+:maxdepth: 2
+
+age_ver
+```
+"""
+
     with open("cv/_cv.md") as fp:
         lines = fp.readlines()
     with open("docs/index.md", "w") as fp:
-        fp.write("".join(lines[:2] + ["[👉 as pdf](_static/cv.pdf)\n\n"] + lines[2:]))
+        fp.write(
+            "".join(lines[:2] + ["[👉 as pdf](_static/cv.pdf)\n\n"] + lines[2:] + [TOC])
+        )
 
 
 @nox.session(name="fetch-articles")
