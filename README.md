@@ -2,7 +2,7 @@
 
 To build,
 
-    nox -s build-cv
+    nox -s build-cv copy-to-docs build-docs
 
 Articles are in *bibtex* format in `cv/refs/articles.bib`, which was taken
 from google scholar.

@@ -7,6 +7,14 @@ import nox
 ROOT = pathlib.Path(__file__).parent
 
 
+nox.options.sessions = (
+    "lint",
+    "build-cv",
+    "copy-to-docs",
+    "build-docs",
+)
+
+
 @nox.session
 def lint(session: nox.Session) -> None:
     """Look for lint."""

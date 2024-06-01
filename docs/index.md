@@ -11,7 +11,7 @@ Boulder, CO 80309-0399 USA
 
 *Telephone*: +1 303 492 6233  
 *Web*: <https://www.colorado.edu/instaar/eric-hutton>  
-*ORCHID*: <https://orcid.org/0000-0002-5864-6459>
+*ORCID*: <https://orcid.org/0000-0002-5864-6459>
 
 ## EDUCATION
 
