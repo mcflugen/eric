@@ -2,7 +2,7 @@
 
 [👉 as pdf](_static/cv.pdf)
 
-*April 2023*
+*May 2024*
 
 Research Scientist II, Institute of Arctic and Alpine Research
 (INSTAAR)  
@@ -13,7 +13,8 @@ Boulder, CO 80309-0399 USA
 
 *Telephone*: +1 303 492 6233  
 *Email*: huttone@colorado.edu  
-*Web*: https://www.colorado.edu/instaar/eric-hutton
+*Web*: <https://www.colorado.edu/instaar/eric-hutton>  
+*ORCHID*: <https://orcid.org/0000-0002-5864-6459>
 
 ## EDUCATION
 
@@ -83,13 +84,9 @@ Reproducible Hydrological Modelling with eWaterCycle.” *Authorea
 Preprints*.
 
 Gan, Tian, Gregory E Tucker, Eric WH Hutton, Mark D Piper, Irina
-Overeem, Albert J Kettner, Benjamin Campforts, et al. 2023. “CSDMS Data
-Components: Data-Model Integration Tools for Earth Surface Processes
-Modeling.” *Geoscientific Model Development Discussions* 2023: 1–31.
-
-———, et al. 2024. “CSDMS Data Components: Data–Model Integration Tools
-for Earth Surface Processes Modeling.” *Geoscientific Model Development*
-17 (5): 2165–85.
+Overeem, Albert J Kettner, Benjamin Campforts, et al. 2024. “CSDMS Data
+Components: Data–Model Integration Tools for Earth Surface Processes
+Modeling.” *Geoscientific Model Development* 17 (5): 2165–85.
 
 Gasparini, Nicole M, Jordan Marie Adams, Gregory E Tucker, Daniel EJ
 Hobley, Eric Hutton, Erkan Istanbulluoglu, and Sai Siddhartha
@@ -140,7 +137,7 @@ Model Interface 2.0: A Standard Interface for Coupling Numerical Models
 in the Geosciences.” *Journal of Open Source Software* 5 (51): 2317.
 
 ———. 2022. “The Babelizer: Language Interoperability for Model Coupling
-in the Geosciences.”
+in the Geosciences.” *Journal of Open Source Software* 7 (71): 3343.
 
 Hutton, Eric WH, and James PM Syvitski. 2004. “Advances in the Numerical
 Modeling of Sediment Failure During the Development of a Continental
@@ -163,11 +160,6 @@ Finite Slope Due to Sea-Level Rise and Fall.” *Computers & Geosciences*.
 Hutton, EW, LF Pratson, JP Syvitski, and JEA Storms. 2003. “Modelling
 the Stratigraphic Deveopment of the Inner Shelf Environment.”
 
-Imran, Jasim, Gary Parker, James PM Syvitski, and Eric Hutton. n.d.
-“Debris Flows Vs. Turbidity Currents: A Modeling Comparison of Their
-Dynamics and Deposits Lincoln f. Pratson Division of Earth and Ocean
-Sciences, Duke University Durham, North Carolina, USA.”
-
 Jouet, Gwenael, Eric WH Hutton, James PM Syvitski, and Serge Berné.
 2008. “Response of the Rhône Deltaic Margin to Loading and Subsidence
 During the Last Climatic Cycle.” *Computers & Geosciences* 34 (10):
@@ -176,11 +168,6 @@ During the Last Climatic Cycle.” *Computers & Geosciences* 34 (10):
 Kettner, AJ, B Gomez, EWH Hutton, and JPM Syvitski. 2009. “Late Holocene
 Dispersal and Accumulation of Terrigenous Sediment on Poverty Shelf, New
 Zealand.” *Basin Research* 21 (2): 253–67.
-
-Kettner, AJ, EWH Hutton, and JPM Syvitski. n.d. “AGU 2004 Fall Meeting
-Session: OS04; Strata Formation on European Continental Margins
-Simulating the Impact of Sediment Flux of the 2003 Flood Event of the
-Rhone River on the Golf of Lions, France.”
 
 Kubo, Yu’suke, James PM Syvitski, Eric WH Hutton, and Albert J Kettner.
 2006. “Inverse Modeling of Post Last Glacial Maximum Transgressive
@@ -192,17 +179,10 @@ Kubo, Yu’suke, James PM Syvitski, Eric WH Hutton, and Chris Paola. 2005.
 2D-SedFlux: From Tank Experiment to Geological Scale Simulation.”
 *Sedimentary Geology* 178 (3-4): 187–95.
 
-Kubo, JPM Syvitski, EWH Hutton, C Paola, D Parcerisa, D Gómez-Gras, A
-Travé, et al. 2005. “Expression and Modelling of Stratigraphic Sequence
-Distortion c. Robin, d. Rouby, d. Granjeon, f. Guillocheau, p. Allemand
-and s. Raillard...................… 159 Advance and Application of the
-Stratigraphic Simulation Model 2D-SedFlux: From Tank Experiment to
-Geological Scale Simulation.” *Sedimentary Geology* 175: 49–72.
-
 Lee, Homa J, James PM Syvitski, Gary Parker, Daniel Orange, Jacques
 Locat, Eric WH Hutton, and Jasim Imran. 2002. “Distinguishing Sediment
 Waves from Slope Failure Deposits: Field Examples, Including the
-91Humboldt Slide, and Modelling Results.” *Marine Geology* 192 (1-3):
+"Humboldt Slide", and Modelling Results.” *Marine Geology* 192 (1-3):
 79–104.
 
 Long-Reid, Ashanie, Allison M Pfeiffer, Eric Hutton, and Jonathan A
@@ -216,8 +196,6 @@ Fluctuations During Termination i: An Integrated Sequence-Stratigraphy
 and Modeling Approach from the Adriatic Sea (Central Mediterranean).”
 *Marine Geology* 287 (1-4): 54–70.
 
-———. n.d. “From Stratodynamics.”
-
 Morehead, Mark D, James P Syvitski, and Eric WH Hutton. 2001. “The Link
 Between Abrupt Climate Change and Basin Stratigraphy: A Numerical
 Approach.” *Global and Planetary Change* 28 (1-4): 107–27.
@@ -225,10 +203,6 @@ Approach.” *Global and Planetary Change* 28 (1-4): 107–27.
 Morehead, Mark D, James P Syvitski, Eric WH Hutton, and Scott D Peckham.
 2003. “Modeling the Temporal Variability in the Flux of Sediment from
 Ungauged River Basins.” *Global and Planetary Change* 39 (1-2): 95–110.
-
-Nudurupati, Sai S, Erkan Istanbulluoglu, Jordan M Adams, Nicole M
-Gasparini, Gregory E Tucker, Eric Hutton, and Daniel Hobley. n.d.
-“Printing.”
 
 Nudurupati, Sai S, Erkan Istanbulluoglu, Gregory E Tucker, Nicole M
 Gasparini, Daniel EJ Hobley, Eric WH Hutton, Katherine R Barnhart, and
@@ -243,9 +217,6 @@ Overeem, Irina, James PM Syvitski, Eric WH Hutton, and Albert J Kettner.
 2005. “Stratigraphic Variability Due to Uncertainty in Model Boundary
 Conditions: A Case-Study of the New Jersey Shelf over the Last 40,000
 Years.” *Marine Geology* 224 (1-4): 23–41.
-
-Overeem, Irina, J Syvitski, A Kettner, E Hutton, and B Brakenridge. n.d.
-“Sinking Deltas Due to Human Activities.”
 
 Peckham, Scott D., Eric W. H. Hutton, and Boyana Norris. 2012. “A
 Component-Based Approach to Integrated Modeling in the Geosciences: The
@@ -329,9 +300,6 @@ of Suspended Particles as Determined by the Floc Camera Assembly FCA.”
 Model for the Fill of Marine Sedimentary Basins.” *Computers &
 Geosciences* 27 (6): 731–53.
 
-———. n.d. “Delivering Terrestrial Sediment to Continental Slopes: An
-Overview of Mechanisms.”
-
 Syvitski, James PM, Albert J Kettner, Irina Overeem, Eric WH Hutton,
 Mark T Hannon, G Robert Brakenridge, John Day, et al. 1912. “Sinking
 Deltas.” *Nature Geoscience*.
@@ -340,11 +308,7 @@ Deltas.” *Nature Geoscience*.
 Geoscience* 2 (10): 681–86.
 
 Syvitski, James PM, Lincoln F Pratson, Patricia L Wiberg, Michael S
-Steckler, Marcelo H Garcia, W Rocky Geyer, Courtney K Harris, et al.
-n.d. “Chapter IX: Prediction of Margin Stratigraphy.”
-
-Syvitski, James PM, Lincoln F Pratson, Patricia L Wiberg, Michael S
-Steckler, Marcelo H Garcı́a, W Rockwell Geyer, Courtney K Harris, et al.
+Steckler, Marcelo H Garcia, W Rockwell Geyer, Courtney K Harris, et al.
 2007. “Prediction of Margin Stratigraphy.” *Continental Margin
 Sedimentation: From Sediment Transport to Sequence Stratigraphy*,
 459–529.
@@ -377,9 +341,6 @@ Community Platform for Numerical Modeling of Earth-Surface Processes.”
 Tucker, Gregory E, Eric Hutton, Mark Piper, Benjamin Campforts, Tian
 Gan, Katherine R Barnhart, Albert Kettner, et al. 2021b. “Numerical
 Modeling of Earth’s Dynamic Surface: A Community Approach.”
-
-Xing, Fei, Albert Kettner, Andrew Ashton, Eric Hutton, and James
-Syvitski. n.d. “CSDMS.”
 
 ### Non-refereed conference proceedings and presentations, technical reports, field guides, and other
 
@@ -826,8 +787,6 @@ Xing, F, AJ Kettner, AD Ashton, E Hutton, and J Syvitski. 2011.
 “Exploring River-Wave Dominated Delta Evolution Applying a
 Model-Coupling Approach.” In *AGU Fall Meeting Abstracts*, 2011:H54E–02.
 
-<!--- ### RECENT CONFERENCE AND WORKSHOP PRESENTATIONS (2021–23) -->
-
 ## RESEARCH GRANTS
 
 ### Current Support
@@ -883,25 +842,23 @@ Model-Coupling Approach.” In *AGU Fall Meeting Abstracts*, 2011:H54E–02.
     Office of Advanced Cyberinfrastructure. PI: E. Hutton, 2019-2020,
     $14,807.
 
-<!--- ## PROFESSIONAL SERVICE -->
-
-### Software Products
+## SOFTWARE PRODUCTS
 
 -   **Landlab**: developer. First release in December 2013. Under active
     development.  
-    (http://github.com/landlab/landlab).
+    <https://github.com/landlab/landlab>.
 -   **BMI (The Basic Model Interface)**: project leader and developer.
     First publication 2012. Under active development.  
-    (http://github.com/csdms/bmi).
+    <https://github.com/csdms/bmi>.
 -   **PyMT**: project leader and developer. First release in April 2015.
     Under active development.  
-    (https://github.com/csdms/pymt).
+    <https://github.com/csdms/pymt>.
 -   **The Babelizer**: project leader and developer. First release in
     April 2018. Under active development.
-    (https://github.com/csdms/babelizer).
+    <https://github.com/csdms/babelizer>.
 -   **Sequence**: developer. First release in August 2018. Under active
     development.  
-    (https://github.com/sequence-dev/sequence).
+    <https://github.com/sequence-dev/sequence>.
 -   **Sedflux**: project leader and developer: First publication 2001.
     Under maintenance.  
-    (https://github.com/mcflugen/sedflux).
+    <https://github.com/mcflugen/sedflux>.

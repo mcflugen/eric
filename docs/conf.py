@@ -37,7 +37,7 @@ html_theme_options = {
     "dark_logo": "eric-logo-dark.png",
     "source_repository": "https://github.com/mcflugen/cv/",
     "source_branch": "main",
-    "source_directory": "docs/source",
+    "source_directory": "docs",
     "footer_icons": [
         {
             "name": "power",
