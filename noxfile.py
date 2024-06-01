@@ -1,4 +1,5 @@
 import pathlib
+import shutil
 from urllib import request
 
 import nox
@@ -72,7 +73,16 @@ def build_cv(session: nox.Session) -> None:
                 "--lua-filter=multiple-bibliographies.lua",
                 *arg,
             )
-    # session.log(f"👉 {path_to_cv!s} 👈")
+
+
+@nox.session(name="copy-to-docs", python=False)
+def copy_to_docs(session: nox.Session) -> None:
+    shutil.copy("cv/_cv.pdf", "docs/_static/cv.pdf")
+
+    with open("cv/_cv.md") as fp:
+        lines = fp.readlines()
+    with open("docs/index.md", "w") as fp:
+        fp.write("".join(lines[:2] + ["[👉 as pdf](_static/cv.pdf)\n\n"] + lines[2:]))
 
 
 @nox.session(name="fetch-articles")

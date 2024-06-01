@@ -13,24 +13,21 @@ nocite: |
 
 # Eric W. H. Hutton
 
-*May 2024*
+Research Scientist II, Institute of Arctic and Alpine Research (INSTAAR)\
+Chief Software Architect, Community Surface Dynamics Modeling System (CSDMS)\
+University of Colorado\
+Boulder, CO 80309-0399 USA
 
-Research Scientist II, Institute of Arctic and Alpine Research (INSTAAR)  
-Chief Software Architect, Community Surface Dynamics Modeling System (CSDMS)  
-University of Colorado  
-Boulder, CO 80309-0399 USA  
-
-*Telephone*: +1 303 492 6233  
-*Email*: huttone@colorado.edu  
-*Web*: [https://www.colorado.edu/instaar/eric-hutton](https://www.colorado.edu/instaar/eric-hutton)  
+*Telephone*: +1 303 492 6233\
+*Web*: [https://www.colorado.edu/instaar/eric-hutton](https://www.colorado.edu/instaar/eric-hutton)\
 *ORCHID*: [https://orcid.org/0000-0002-5864-6459](https://orcid.org/0000-0002-5864-6459)
 
 ## EDUCATION
 
-*   B.A.Sc., Engineering Physics (Geophysics option), 1997  
+*   B.A.Sc., Engineering Physics (Geophysics option), 1997\
     University of British Columbia, Vancouver, British Columbia
 *   Ph.D., Geophysics (Graduate Certificate in Oceanography; Graduate
-    Certificate in Hydrology), 2007  
+    Certificate in Hydrology), 2007\
     University of Colorado, Boulder, Colorado
 
 ## ACADEMIC APPOINTMENTS
@@ -119,18 +116,18 @@ Boulder, CO 80309-0399 USA
 ## SOFTWARE PRODUCTS
 
 
-*  **Landlab**: developer. First release in December 2013. Under active development.  
+*  **Landlab**: developer. First release in December 2013. Under active development.\
    [https://github.com/landlab/landlab](https://github.com/landlab/landlab).
 *  **BMI (The Basic Model Interface)**: project leader and developer. First
-   publication 2012. Under active development.  
+   publication 2012. Under active development.\
    [https://github.com/csdms/bmi](https://github.com/csdms/bmi).
 *  **PyMT**: project leader and developer. First release in April 2015. Under active
-   development.  
+   development.\
    [https://github.com/csdms/pymt](https://github.com/csdms/pymt).
 *  **The Babelizer**: project leader and developer. First release in April 2018.
    Under active development.
    [https://github.com/csdms/babelizer](https://github.com/csdms/babelizer).
-*  **Sequence**: developer. First release in August 2018. Under active development.  
+*  **Sequence**: developer. First release in August 2018. Under active development.\
    [https://github.com/sequence-dev/sequence](https://github.com/sequence-dev/sequence).
-*  **Sedflux**: project leader and developer: First publication 2001. Under maintenance.  
+*  **Sedflux**: project leader and developer: First publication 2001. Under maintenance.\
    [https://github.com/mcflugen/sedflux](https://github.com/mcflugen/sedflux).
