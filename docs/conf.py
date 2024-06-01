@@ -2,12 +2,12 @@ from datetime import date
 
 from dateutil.relativedelta import relativedelta
 
-project = "Eric Hutton"
+project = "Eric"
 copyright = "2024, Eric Hutton"
 author = "Eric Hutton"
 
 alive = relativedelta(date.today(), date(1973, 3, 14))
-version = f"{alive.years}.{alive.months}.{alive.days}"
+version = f"v{alive.years}.{alive.months}.{alive.days}"
 release = version
 
 extensions = [
@@ -33,8 +33,10 @@ html_theme = "furo"
 html_static_path = ["_static"]
 
 html_theme_options = {
+    "announcement": "<em>Eric v51.0.0 released!</em>",
     "light_logo": "eric-logo-light.png",
     "dark_logo": "eric-logo-dark.png",
+    "sidebar_hide_name": False,
     "source_repository": "https://github.com/mcflugen/cv/",
     "source_branch": "main",
     "source_directory": "docs",
