@@ -1,6 +1,6 @@
 # AgeVer
 
-Eric using *AgeVer* for versioning.
+Eric uses *AgeVer* for versioning.
 
 *AgeVer* assigns version numbers based on elapsed time since
 a project's inception. The version number is formatted as three
