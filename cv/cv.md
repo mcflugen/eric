@@ -77,6 +77,15 @@ Boulder, CO 80309-0399 USA
    Hutton, A. Kettner, and I. Overeem, and external collaborators N. Gasparini,
    D. Gochis, E. Istanbulluoglu, and A. Pfeiffer. 2021–2026, $2,562,303 to CU Boulder.
 
+*  **Collaborative Research: Frameworks: Sandpiper - A community toolchain to support
+   geomorphology from data acquisition to analysis**.
+   U.S. National Science Foundation Office of Advanced Cyberinfrastructure (OAC).
+   PI: E. Hutton, and external collaborators A. Moodie, C. Nguyen, A. Wickert, and
+   E. Barefoot. 2024-2028 $353,745.00 to CU Boulder.
+
+
+### Past Support
+
 *  **BSF-NSF: Collaborative Research: Deciphering the role of extreme rainstorms
    and hydroclimatic regime on arid escarpment retreat and sub-cliff slope evolution**.
    U.S. National Science Foundation EAR Division.
@@ -93,9 +102,6 @@ Boulder, CO 80309-0399 USA
    Water and Sediment Research**.
    U.S. National Science Foundation EAR Division,
    PI: G. Tucker, with co-investigator E. Hutton, 2020-21 (extended to 2023), $189,733.
-
-
-### Past Support
 
 *  **CNH-L: Climate Change Adaptation in a Coupled Geomorphic-Economic Coastal
    System**.
