@@ -13,7 +13,7 @@ repos:
     types_or: [python, pyi]
 
 - repo: https://github.com/pycqa/flake8
-  rev: 7.3.0
+  rev: 7.4.1
   hooks:
   - id: flake8
     additional_dependencies:
@@ -28,7 +28,7 @@ repos:
     args: [--py310-plus]
 
 - repo: https://github.com/PyCQA/isort
-  rev: 9.0.0a3
+  rev: 9.0.2
   hooks:
   - id: isort
     files: \.py$
